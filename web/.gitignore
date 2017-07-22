@@ -1,0 +1,5 @@
+# ignor
+/assets
+/.htaccess
+/index.php
+/index-test.php
